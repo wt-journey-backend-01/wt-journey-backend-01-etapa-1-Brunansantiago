@@ -1,4 +1,4 @@
-Projeto Backend Básico - Journey
+Projeto Backend - Journey (Etapa 1)
 
 Este é um projeto de backend simples desenvolvido como parte de uma trilha de estudos. A aplicação utiliza Node.js e Express para criar um servidor web com funcionalidades básicas, atendendo aos critérios de uma atividade de avaliação.
 
