@@ -1,13 +1,13 @@
 Projeto Backend - Journey (Etapa 1)
 
-Este é um projeto de backend simples desenvolvido como parte de uma trilha de estudos. A aplicação utiliza Node.js e Express para criar um servidor web com funcionalidades básicas, atendendo aos critérios de uma atividade de avaliação.
+Este é um projeto de backend desenvolvido como parte de uma trilha de estudos. A aplicação utiliza Node.js e Express para criar um servidor web com funcionalidades básicas, atendendo aos critérios de uma atividade de avaliação.
 
 O servidor é capaz de renderizar uma página HTML, processar dados enviados através de um formulário, retornar respostas personalizadas e simular uma rota de API que devolve dados no formato JSON.
 
 O que ele faz:
 
 -   Página Inicial: Exibe uma página HTML gerada pelo servidor contendo um formulário para inserção de nome.
--   Processamento de Formulário: Recebe os dados do formulário via método POST, processa o nome enviado e exibe uma mensagem de boas-vindas personalizada.
+-   Processamento de Formulário: Recebe os dados do formulário via método POST, processa o nome enviado.
 -   API Simulada: Uma rota que retorna um objeto JSON simples, simulando o comportamento de uma API real.
 
 Ferramentas utilizadas:
@@ -46,5 +46,3 @@ Passos:
 5.  Acesse no navegador:
     Abra seu navegador e acesse `http://localhost:3000`.
 
-
-Desenvolvido por Bruna.
