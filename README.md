@@ -6,9 +6,9 @@ O servidor é capaz de renderizar uma página HTML, processar dados enviados atr
 
 O que ele faz:
 
--   Página Inicial (`/`): Exibe uma página HTML gerada pelo servidor contendo um formulário para inserção de nome.
--   Processamento de Formulário (`/enviar`)**: Recebe os dados do formulário via método POST, processa o nome enviado e exibe uma mensagem de boas-vindas personalizada.
--   API Simulada (`/api`): Uma rota que retorna um objeto JSON simples, simulando o comportamento de uma API real.
+-   Página Inicial: Exibe uma página HTML gerada pelo servidor contendo um formulário para inserção de nome.
+-   Processamento de Formulário: Recebe os dados do formulário via método POST, processa o nome enviado e exibe uma mensagem de boas-vindas personalizada.
+-   API Simulada: Uma rota que retorna um objeto JSON simples, simulando o comportamento de uma API real.
 
 Ferramentas utilizadas:
 
